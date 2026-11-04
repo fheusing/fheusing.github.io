@@ -4,13 +4,12 @@ title: Home
 ---
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;" markdown="0">
-  <img src="profile.jpg" alt="Felix von Heusinger" style="width: 180px; border-radius: 50%;">
+  <img src="profile.jpg" alt="Felix von Heusinger" style="width: 160px; border-radius: 50%;">
   <div style="flex: 1; min-width: 220px;" markdown="1">
 
 # Felix von Heusinger
 
-I am a PhD student in Sociology at DIW Berlin and affiliated with the BGSS at HU Berlin. 
-In my thesis, I explore how the intergenerational transmission of homeownership is changing. Together with Sabine Zinn, I am developing and expanding the [MicSim](https://cran.r-project.org/package=MicSim) R package, which I use to build microsimulations in which parental attributes directly shape children's life outcomes.
+I am a PhD student in Sociology at DIW Berlin and affiliated with the BGSS at HU Berlin. In my thesis, I explore how the intergenerational transmission of homeownership is changing. Together with Sabine Zinn, I am developing and expanding the [MicSim](https://cran.r-project.org/package=MicSim) R package, which I use to build microsimulations in which parental attributes directly shape children's life outcomes.
 
   </div>
 </div>
