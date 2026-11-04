@@ -16,4 +16,7 @@ In my thesis, I explore how the intergenerational transmission of homeownership 
 
 I am interested in how we can model complex interactions between individuals when data is scarce, and in how access to wealth shifts between family generations. In particular, I study how demographic and economic change interact across generations to reproduce or disrupt social inequalities.
 
-[Email](mailto:fvonheusinger@diw.de) | [GitHub](https://github.com/fheusing)
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<a href="mailto:fvonheusinger@diw.de" aria-label="Email"><i class="fa-solid fa-envelope fa-lg"></i></a> &nbsp;
+<a href="https://github.com/fheusing" aria-label="GitHub"><i class="fa-brands fa-github fa-lg"></i></a>
